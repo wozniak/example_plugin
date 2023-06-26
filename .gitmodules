@@ -1,0 +1,4 @@
+[submodule "3p/sdk"]
+	path = 3p/sdk
+	url = https://github.com/wozniak/hl2sdk
+	branch = orangebox
